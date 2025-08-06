@@ -72,7 +72,7 @@ This project is licensed under the MIT License. Feel free to use the code with a
 
 I’m passionate about solving real-world problems using machine learning and AI. This repository is a reflection of my curiosity, dedication, and continual growth in the field.
 
-- 📫 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📫 [LinkedIn](https://www.linkedin.com/in/arjang-fahim-06898814/)
 - 🌐 [Portfolio Website](https://your-portfolio.com) *(if applicable)*
 
 ---
