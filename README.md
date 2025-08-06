@@ -58,7 +58,7 @@ Here are some of the key projects and topics you'll find inside:
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/Machine-Learning.git
-   cd Machine-Learning
+   cd ThinkML
    ```
 2. Navigate to any folder to explore code and notebooks  
 3. Install dependencies where applicable (each folder may include a `requirements.txt`)  
