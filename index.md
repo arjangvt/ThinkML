@@ -1,3 +1,8 @@
+---
+layout: default
+title: ThinkML
+---
+
 # 🧠 Think ML
 
 Welcome to my **Machine Learning** repository — a curated collection of my code, experiments, and project ideas. This space reflects my hands-on experience and learning journey in machine learning, deep learning, data analysis, and model deployment. It includes both foundational implementations and more advanced applications.
@@ -28,7 +33,7 @@ Here are some of the key projects and topics you'll find inside:
 |----------|----------------|
 | `supervised_learning/` | Linear Regression, Logistic Regression, Decision Trees, SVM, etc. |
 | `unsupervised_learning/` | K-Means, PCA, DBSCAN, Dimensionality Reduction techniques |
-| `deep_learning/` | CNNs, RNNs, <a href="https://github.com/arjangvt/ThinkML/tree/main/deep_learning/autoencoder">AutoEncoder</a>, Transformers, GANs — built using TensorFlow and PyTorch |
+| `deep_learning/` | CNNs, RNNs, [AutoEncoder](https://github.com/arjangvt/ThinkML/blob/main/AutoEncoder_Simple_Ver1.ipynb), Transformers, GANs — built using TensorFlow and PyTorch |
 | `reinforcement_learning/` | Q-Learning, Policy Gradient methods, simple game simulations |
 | `feature_engineering/` | Handling missing data, encoding, scaling, feature selection |
 | `model_evaluation/` | Cross-validation, ROC-AUC, Precision-Recall curves, F1 Score |
