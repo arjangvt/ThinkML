@@ -28,7 +28,7 @@ Here are some of the key projects and topics you'll find inside:
 |----------|----------------|
 | `supervised_learning/` | Linear Regression, Logistic Regression, Decision Trees, SVM, etc. |
 | `unsupervised_learning/` | K-Means, PCA, DBSCAN, Dimensionality Reduction techniques |
-| `deep_learning/` | CNNs, RNNs, Transformers, GANs — built using TensorFlow and PyTorch |
+| `deep_learning/` | CNNs, RNNs, AutoEncoder, Transformers, GANs — built using TensorFlow and PyTorch |
 | `reinforcement_learning/` | Q-Learning, Policy Gradient methods, simple game simulations |
 | `feature_engineering/` | Handling missing data, encoding, scaling, feature selection |
 | `model_evaluation/` | Cross-validation, ROC-AUC, Precision-Recall curves, F1 Score |
