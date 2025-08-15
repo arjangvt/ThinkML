@@ -1,5 +1,3 @@
-# 🧠 Think ML
-
 Welcome to my **Machine Learning** repository — a curated collection of my code, experiments, and project ideas. This space reflects my hands-on experience and learning journey in machine learning, deep learning, data analysis, and model deployment. It includes both foundational implementations and more advanced applications.
 
 ## 📁 Repository Structure
